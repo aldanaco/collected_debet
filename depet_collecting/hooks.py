@@ -1,7 +1,7 @@
 app_name = "depet_collecting"
 app_title = "Depet"
 app_publisher = "Mustafa"
-app_description = "Depet"
+app_description = "dept"
 app_email = "the.mstafa.m@gmail.com"
 app_license = "mit"
 

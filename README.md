@@ -1,6 +1,6 @@
 ## Depet
 
-Depet
+dept
 
 #### License
 
