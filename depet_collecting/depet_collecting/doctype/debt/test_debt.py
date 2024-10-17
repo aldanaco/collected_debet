@@ -5,5 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class Testdepet(FrappeTestCase):
+class Testdebt(FrappeTestCase):
 	pass

@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class depet(Document):
+class debt(Document):
 	pass
